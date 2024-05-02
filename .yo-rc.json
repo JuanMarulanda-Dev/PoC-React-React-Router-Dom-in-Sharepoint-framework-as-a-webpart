@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "cemex-3",
+    "libraryId": "00ccdcd4-54c5-4c85-9668-375052cd54b3",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "cemex-3",
+    "solutionShortDescription": "cemex-3 description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

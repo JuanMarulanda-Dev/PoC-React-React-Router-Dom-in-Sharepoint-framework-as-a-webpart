@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "cemex-3-client-side-solution",
+    "id": "00ccdcd4-54c5-4c85-9668-375052cd54b3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "cemex-3 description"
+      },
+      "longDescription": {
+        "default": "cemex-3 description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "cemex-3 Feature",
+        "description": "The feature that activates elements of the cemex-3 solution.",
+        "id": "c1d0b9e0-08b0-41df-b08b-f103c89f530a",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/cemex-3.sppkg"
+  }
+}
